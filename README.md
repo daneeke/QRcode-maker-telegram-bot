@@ -1,5 +1,4 @@
-<p align="center",size=60>
-    <b>
-        QRcodeMaker Telegram-Bot
-    </b>
+<p align="center">
+    QRcodeMaker Telegram-Bot
+    by @daneeke
 </p>
