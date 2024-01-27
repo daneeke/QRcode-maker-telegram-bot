@@ -1,3 +1,5 @@
 <p align="center">
-    QRcodeMaker Telegram-Bot
+    <b>
+        QRcodeMaker Telegram-Bot
+    </b>
 </p>
